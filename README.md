@@ -1,6 +1,6 @@
 # Biblioteca - Sistema de Gestão de Livros e Membros
 
-Este projeto é uma implementação da biblioteca Jest em JavaScript, que permite realizar os testes da classe Biblioteca.
+Este projeto é uma implementação da biblioteca Jest em JavaScript, que permite realizar os testes da classe Biblioteca disponibilizada pelo [repositório do projeto](https://github.com/ugioni).
 
 ## Funcionalidades
 
@@ -22,6 +22,6 @@ Para rodar este projeto, você precisa ter o [Node.js](https://nodejs.org/) inst
 
 Siga os passos abaixo para configurar o projeto localmente:
 
-1. Execute npm install para instalar dependencias
-1. Execute npm run test para executar todos os testes
-1. Execute npm run coverage para verificar a cobertura
+1. Execute `npm install` para instalar dependencias
+1. Execute `npm run test` para executar todos os testes
+1. Execute `npm run coverage` para verificar a cobertura
