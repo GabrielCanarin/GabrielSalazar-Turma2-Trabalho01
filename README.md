@@ -1,27 +1,27 @@
-# JEST Unit Tests
+# Biblioteca - Sistema de Gestão de Livros e Membros
 
-## GitHub Actions
+Este projeto é uma implementação da biblioteca Jest em JavaScript, que permite realizar os testes da classe Biblioteca.
 
-[![Build and Tests](https://github.com/ugioni/unit-tests-jest/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/ugioni/unit-tests-jest/actions/workflows/node.js.yml)
+## Funcionalidades
 
-## SonarCloud
+A classe `Biblioteca` oferece as seguintes funcionalidades:
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ugioni_unit-tests-jest&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ugioni_unit-tests-jest)
+- **Adicionar e remover livros**
+- **Buscar livros por título, autor, gênero ou ano**
+- **Listar livros disponíveis e emprestados**
+- **Gerenciar membros (adicionar e remover)**
+- **Emprestar e devolver livros**
+- **Contar o número de livros e membros**
+- **Atualizar informações de um livro**
 
-## Getting Started
+## Requisitos
 
-In order to execute this project you must follow the steps below:
+Para rodar este projeto, você precisa ter o [Node.js](https://nodejs.org/) instalado na versão `>= 20.x`.
 
-1. Install [Node JS](https://nodejs.org/) (version >= 20.x)
-1. Run `npm install` to install all the project dependencies
-1. Run `npm run test` to execute the entire test suite
-1. Run `npm run coverage` to execute the entire test suite with coverage
+## Instalação
 
-All execution artifacts can be found in `./coverage`, if you want to remove these files run `npm run clean`.
+Siga os passos abaixo para configurar o projeto localmente:
 
-## Project Structure
-</br>
-<ul>
-    <li>src: source code</li>
-    <li>test: unit test files</li>
-</ul>
+1. Execute npm install para instalar dependencias
+1. Execute npm run test para executar todos os testes
+1. Execute npm run coverage para verificar a cobertura
