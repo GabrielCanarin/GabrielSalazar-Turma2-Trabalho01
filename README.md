@@ -1,6 +1,6 @@
 # Biblioteca - Sistema de Gestão de Livros e Membros
 
-Este projeto é uma implementação da biblioteca Jest em JavaScript, que permite realizar os testes da classe Biblioteca disponibilizada pelo [repositório do projeto](https://github.com/ugioni).
+Este projeto é uma implementação da biblioteca Jest em JavaScript, que permite realizar os testes da classe Biblioteca disponibilizada pelo [Leandro Ugioni](https://github.com/ugioni).
 
 ## Funcionalidades
 
